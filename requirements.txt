@@ -1,0 +1,6 @@
+customtkinter
+pillow
+vaderSentiment
+matplotlib
+wordcloud
+reportlab
